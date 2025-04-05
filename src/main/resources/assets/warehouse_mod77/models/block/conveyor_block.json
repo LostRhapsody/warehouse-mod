@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "warehouse_mod77:block/conveyor_block"
+  }
+}

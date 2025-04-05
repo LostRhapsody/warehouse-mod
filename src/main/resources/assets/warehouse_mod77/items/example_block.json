@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "warehouse_mod77:item/example_block"
+  }
+}
